@@ -1,0 +1,14 @@
+.card {
+    margin:  auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+.bg{
+    background-image:url(../images/class.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
